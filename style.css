@@ -1,0 +1,38 @@
+body {
+    text-align: center;
+    font-size: 40px;
+    font-family: cursive;
+    color: pink;
+}
+
+h1 {
+    color: purple;
+}
+
+.menu {
+    list-style: none;
+    font-family: sans-serif;
+    position: absolute;
+    float: right;
+    top: -25px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+    font-size: 30;
+}
+
+#name {
+    s font-family: 'Roboto', sans-serif;
+}
+
+li {
+    display: inline;
+}
+
+h3 {
+    color: purple;
+}
+
+p3 {
+    color: pink;
+}
